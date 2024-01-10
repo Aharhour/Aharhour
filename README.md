@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Hey There!, I am Adil
+        <samp>&gt; Hey There!, I am 
                 <b><a target="_blank" href="https://www.linkedin.com/in/adil-harhour-3386391b0/">Adil Harhour</a></b>
         </samp>
 </h3>
@@ -58,7 +58,7 @@ Outside my professional path, you'll often find me in my kitchen, crafting culin
 
 <br/>
 
-## Top Open Source -
+## My projects -
 [![Bootstrap Project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=bootstrap-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bootstrap-project)
 [![Bulma project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Bulma-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bulma-project)
 [![Tailwind project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Tailwind-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Tailwind-project)

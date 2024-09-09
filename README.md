@@ -59,9 +59,9 @@ Outside my professional path, you'll often find me in my kitchen, crafting culin
 <br/>
 
 ## My projects -
-[![Bootstrap Project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=bootstrap-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bootstrap-project)
+[![Game of life Project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=bootstrap-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bootstrap-project)
+[![Webshop project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Tailwind-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Tailwind-project)
 [![Bulma project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Bulma-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bulma-project)
-[![Tailwind project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Tailwind-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Tailwind-project)
 [![Foundation project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Foundation-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Foundation-project)
 
 <p align="left">

@@ -59,8 +59,8 @@ Outside my professional path, you'll often find me in my kitchen, crafting culin
 <br/>
 
 ## My projects -
-[![Game of life Project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Game-of-life-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Game-of-life-project)
-[![Webshop project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Webshop-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Webshop-project)
+[![Game of life Project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Game-of-life&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Game-of-life)
+[![Webshop project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Webshop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Webshop)
 [![Bulma project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Bulma-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bulma-project)
 [![Foundation project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Foundation-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Foundation-project)
 

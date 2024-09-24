@@ -35,7 +35,7 @@ Outside my professional path, you'll often find me in my kitchen, crafting culin
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
+ ❤️ &emsp; My fav project (https://github.com/Aharhour/Game-of-life)<br/><br/>
  📧 &emsp; Reach me anytime: adilharhour@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/Aharhour/portofolio)
 

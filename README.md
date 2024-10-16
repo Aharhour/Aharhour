@@ -62,7 +62,7 @@ Outside my professional path, you'll often find me in my kitchen, crafting culin
 [![Game of life Project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Game-of-life&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Game-of-life)
 [![Webshop project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Webshop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Webshop)
 [![Bulma project](https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Bulma-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Aharhour/Bulma-project)
-[![IPTV project](https://github-readme-stats.vercel.app/api/pin/?username=AramDawara123&repo=IPTV.git-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AramDawara123/IPTV.git)
+[![IPTV project](https://github-readme-stats.vercel.app/api/pin/?username=AramDawara123&repo=IPTV-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/AramDawara123/IPTV)
 
 <p align="left">
   <a href="https://github.com/Aharhour?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

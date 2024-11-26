@@ -34,7 +34,7 @@
     Outside of coding, I enjoy spending time in the kitchen crafting culinary creations, sharing memorable moments with friends, and constantly learning to grow as a professional.
     <br/><br/>
     ✌️ &nbsp;I enjoy sharing knowledge and mentoring.  
-    ❤️ &nbsp;Favorite project: <a href="https://github.com/Aharhour/Game-of-life">Game of Life</a>.  
+    ❤️ &nbsp;Favorite project: <a href="https://github.com/AramDawara123/IPTV">Game of Life</a>.  
     📧 &nbsp;Feel free to reach out: <a href="mailto:adilharhour@gmail.com">adilharhour@gmail.com</a>.  
     💬 &nbsp;Ask me anything <a href="https://github.com/Aharhour/portofolio">here</a>.
   </samp>

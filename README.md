@@ -62,7 +62,7 @@
 <p align="center">
   <a href="https://github.com/Aharhour/Game-of-life">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Game-of-life&theme=radical" alt="Game of Life"/>
-  </a>XX
+  </a>
   <a href="https://github.com/Aharhour/Webshop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aharhour&repo=Webshop&theme=radical" alt="Webshop"/>
   </a>
